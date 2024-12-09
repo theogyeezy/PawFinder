@@ -1,0 +1,1 @@
+export type ScrollTarget = 'pricing' | 'features' | 'faq' | 'team' | 'partners';
